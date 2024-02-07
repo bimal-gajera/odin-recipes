@@ -36,3 +36,44 @@ a {
 li:hover {
   background-color: rgb(182, 132, 57);
 }
+
+img {
+  margin: 30px 450px;
+  width: 400px;
+  height: auto;
+  border: 6px solid rgb(199, 129, 0);
+  border-radius: 10px;
+}
+
+h3 {
+  background-color: rgb(228, 160, 59);
+  text-align: center;
+  margin: 35px 530px 1px;
+  padding: 10px;
+  width: 200px;
+}
+
+p {
+  width: 600px;
+  text-align: center;
+  margin: 15px 330px;
+}
+
+ul.recipe-list {
+  text-align: center;
+  margin-top: -20px;
+}
+
+.recipe-list li {
+  width: 400px;
+  text-align: center;
+  margin-bottom: -10px;
+  margin-left: -125px;
+}
+
+.recipe-steps li {
+  width: 700px;
+  text-align: center;
+  margin-left: 250px;
+  margin-bottom: -10px;
+}
